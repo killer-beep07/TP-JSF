@@ -33,6 +33,8 @@ Le projet est structuré de la manière suivante :
 
 # Illustration de la Base de Données
 
+# Service
+
 ## Ajout
 
 <img width="960" alt="image" src="https://github.com/killer-beep07/TP-JSF/assets/130712993/8148c2c8-c379-49e7-bba7-8dceee30cb62">
