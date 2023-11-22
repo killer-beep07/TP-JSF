@@ -33,7 +33,7 @@ Le projet est structuré de la manière suivante :
 
 # Illustration de la Base de Données
 
-  # Statistiques du nombre demploye par service
+  # Statistiques du nombre d'employés par service
   
 <img width="480" alt="image" src="https://github.com/killer-beep07/TP-JSF/assets/130712993/a2ee10de-3d00-4422-bd86-e1ff10b0999d">
 
