@@ -28,7 +28,7 @@ Le projet est structuré de la manière suivante :
 - 🧪**`src/test`** : Répertoire pour les tests unitaires.
 
 ## Configuration
-1. **Base de Données** : Configurer les paramètres de connexion à la base de données dans le fichier `persistence.xml`.
+1. **Base de Données** : Configurer les paramètres de connexion à la base de données dans le fichier `hibernate.cfg.xml`.
 2. **Serveur d'Application** : Déployer l'application sur un serveur compatible avec Java (Glassfish)
 
 # Illustration de la Base de Données
