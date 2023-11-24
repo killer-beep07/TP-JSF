@@ -32,6 +32,33 @@ Le projet est structuré de la manière suivante :
 2. **Serveur d'Application** : Déployer l'application sur un serveur compatible avec Java (Glassfish)
 
 # Illustration de la Base de Données
+## Authentification
+
+# Table Login
+
+<img width="344" alt="image" src="https://github.com/killer-beep07/Spring-boot/assets/130712993/2ee89de7-dc4d-4b37-b8f5-b73eea248539">
+
+# Login page 
+
+<img width="960" alt="image" src="https://github.com/killer-beep07/Spring-boot/assets/130712993/054857fe-8295-4030-8613-acf3640eccf9">
+<img width="426" alt="image" src="https://github.com/killer-beep07/Spring-boot/assets/130712993/7a4cbd3f-e55c-489c-b5ae-c1df6392c925">
+
+# Authentification reussie (Redirection vers l'interface principale) : 
+
+<img width="960" alt="image" src="https://github.com/killer-beep07/Spring-boot/assets/130712993/2d146c48-4dd1-402e-b0a5-def3afc58fc0">
+
+
+# Authentification échouée 
+
+![image](https://github.com/killer-beep07/Spring-boot/assets/130712993/61dd97cb-069e-4233-a4ef-9a6247b12091)
+
+
+
+
+
+
+
+
 
   # Statistiques du nombre d'employés par service
   
